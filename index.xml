@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Valère JEANTET</title>
+    <link>http://Luminousssss.github.io/</link>
+    <description>Recent content on Valère JEANTET</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr-FR</language>
+    <copyright>All rights reserved</copyright>
+    <lastBuildDate>Tue, 14 Apr 2015 22:17:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://Luminousssss.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About me</title>
+      <link>http://Luminousssss.github.io/about/</link>
+      <pubDate>Tue, 14 Apr 2015 22:17:00 +0000</pubDate>
+      
+      <guid>http://Luminousssss.github.io/about/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Yow !</description>
+    </item>
+    
+    <item>
+      <title>Mon Devoxx France 2014</title>
+      <link>http://Luminousssss.github.io/devoxx-france-2014-review/</link>
+      <pubDate>Fri, 18 Apr 2014 23:00:00 +0200</pubDate>
+      
+      <guid>http://Luminousssss.github.io/devoxx-france-2014-review/</guid>
+      <description>3 jours de conférences au Devoxx france 2014
+Devoxx FR Jour I Première journée, récupération du badge, tour des exposants, goodies, café croissants, tout commence bien.
+Déjà 9h20, les sessions du matin vont commencer, la salle où l&amp;rsquo;on va parler docker est pleine à craquer #fail pour moi.
+Redirection immédiate vers &amp;ldquo;Angularjs from scratch&amp;rdquo;&amp;hellip; La salle craque&amp;hellip; Je me repli vers l&amp;rsquo;auditorium sur Cassandra ; la salle peut encore accueillir du monde, ça tombe bien, ça m&amp;rsquo;intéresse.</description>
+    </item>
+    
+    <item>
+      <title>DevO(xx|ps)</title>
+      <link>http://Luminousssss.github.io/devoxxps/</link>
+      <pubDate>Fri, 21 Feb 2014 19:11:36 +0100</pubDate>
+      
+      <guid>http://Luminousssss.github.io/devoxxps/</guid>
+      <description>En attendant une date pour le Devops 2014, on se voit au DevOxx Paris 2014 !
+Le programme est disponible.
+Il y a du Docker et du Golang dans l&amp;rsquo;air cette année&amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>80 la minute.</title>
+      <link>http://Luminousssss.github.io/80-la-minute/</link>
+      <pubDate>Wed, 30 Aug 2006 03:45:00 +0200</pubDate>
+      
+      <guid>http://Luminousssss.github.io/80-la-minute/</guid>
+      <description>J&amp;rsquo;aimerais avoir le temps d&amp;rsquo;avoir le temps.
+Je suis juste pressé de vieillir pour terminer ma liste des &amp;ldquo;choses à faire&amp;rdquo;; trop pressé de savoir ce que l&amp;rsquo;on me laissera découvrir, apprendre et voir.
+J&amp;rsquo;ai envie de pleurer toutes les larmes de mon corps pour savoir lesquelles étaient vrai.
+Ce sont toutes ces erreurs que je voudrais avoir déjà faites&amp;hellip;
+Pas une seconde ne me fait vieillir, ce sont mes cinq sens qui décident de mon sursis.</description>
+    </item>
+    
+    <item>
+      <title>Sécurité</title>
+      <link>http://Luminousssss.github.io/security/</link>
+      <pubDate>Wed, 30 Aug 2006 03:45:00 +0200</pubDate>
+      
+      <guid>http://Luminousssss.github.io/security/</guid>
+      <description>Des ressources et des notes liées à la sécurité informatique.</description>
+    </item>
+    
+    <item>
+      <title>1 clavier, 1 souris, et plusieurs machines.</title>
+      <link>http://Luminousssss.github.io/1-clavier-1-souris-et-plusieurs-machines/</link>
+      <pubDate>Thu, 14 Apr 2005 22:17:00 +0200</pubDate>
+      
+      <guid>http://Luminousssss.github.io/1-clavier-1-souris-et-plusieurs-machines/</guid>
+      <description>Vous avez 2 écrans branchés sur une même machine, ou plusieurs ordinateurs sous différents OS.
+Je vous présente dans ce billet des méthodes pour profiter au maximum de vos machines avec 1 clavier et 1 souris.
+Autrement dit : passer la souris/clavier de votre PC linux à l&amp;rsquo;ordinateur portable sous MS Windows ou MACosX, et ceci de manière naturelle sans manipulation spéciale.
+Tout informaticien ou geek qui se respecte posséde au moins 2 ordinateurs chez lui, ou au moins 2 écrans branchés sur sa machine.</description>
+    </item>
+    
+    <item>
+      <title>Citation</title>
+      <link>http://Luminousssss.github.io/citation/</link>
+      <pubDate>Mon, 14 Feb 2005 22:08:00 +0100</pubDate>
+      
+      <guid>http://Luminousssss.github.io/citation/</guid>
+      <description>&amp;ldquo;Les mains qui aident sont plus sacrées que les lèvres qui prient.&amp;rdquo;
+ Sathya Sai Baba</description>
+    </item>
+    
+  </channel>
+</rss>
